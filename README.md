@@ -1,2 +1,2 @@
 # kubernetes-demo
-for kubernetes demo 
+for beginners 
